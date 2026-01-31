@@ -48,6 +48,8 @@ Students often struggle to find meaningful project collaboration opportunities t
 * Clarify doubts raised by students during development
 * Share learning resources and references
 * Guide students when they face technical or conceptual blockers
+* Recommend Talented Students to Projects (Mentor identifies skilled students and suggests them to project owners)
+* Identify High-Potential Contributors (Talent scouting use case — marking or flagging strong performers)
 
 *Note: The mentor does not evaluate, approve, or rate projects.*
 
