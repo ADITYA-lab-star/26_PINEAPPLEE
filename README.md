@@ -21,35 +21,31 @@ Students often struggle to find meaningful project collaboration opportunities t
 
 ### 👤 Project Owner
 
-* Create and publish project ideas
-* Define project goals and tasks
-* Invite or select collaborators
-* Track project progress using milestones and percentage completion
-* Review submitted work and provide ratings/reviews
-* View contribution history and audit summaries
+1.  **Project Lifecycle Initiation:** Create project structures and define comprehensive scopes to ensure clear project roadmaps.
+2.  **Strategic Recruitment:** Review applicant profiles and invite specific collaborators to build a balanced team based on required skills.
+3.  **Quality Assurance (QA) Review:** Validate submitted deliverables against requirements, with the ability to approve work or trigger rework loops.
+4.  **Performance Evaluation:** Assign numerical ratings and written performance reviews to collaborators upon project completion.
+5.  **Real-Time Progress Monitoring:** Utilize a visual dashboard to track task completion rates and overall project health status.
 
 ---
 
 ### 👥 Collaborator
 
-* Browse and apply for available projects
-* Maintain a personal profile with skills and interests
-* Accept assigned tasks and submit work
-* Track project-level progress
-* Receive ratings and feedback for completed work
-* Build a contribution history as proof of experience
+1.  **Opportunity Discovery:** execute targeted searches for projects matching specific skill sets and submit formal collaboration proposals.
+2.  **Task Execution Cycle:** Manage the complete workflow of accepting assignments, executing tasks, and submitting deliverables for review.
+3.  **XP, Levels & Leaderboard:** Accrue Experience Points (XP), unlock new **User Levels** through successfully approved submissions, and compete for top rankings on the platform **Leaderboard**.
+4.  **Team Communication:** Use the **Chat Box** for team coordination and to clarify doubts during development.
+5.  **Project Portfolio:** Showcase a comprehensive list of previously completed **Projects** and earned **XP** directly on the **User Profile** as verifiable proof of experience.
 
 ---
 
 ### 🎓 Mentor
 
-* Browse projects requesting guidance
-* Provide technical suggestions and best-practice recommendations
-* Clarify doubts raised by students during development
-* Share learning resources and references
-* Guide students when they face technical or conceptual blockers
-* Recommend Talented Students to Projects (Mentor identifies skilled students and suggests them to project owners)
-* Identify High-Potential Contributors (Talent scouting use case — marking or flagging strong performers)
+1.  **Technical Consultation:** Provide non-binding technical suggestions and clarify conceptual doubts during the development phase.
+2.  **Resource Provisioning:** Share curated learning materials, references, and best-practice documentation to support the team.
+3.  **Talent Scouting:** Identify high-potential contributors and formally recommend them to Project Owners for future initiatives.
+4.  **Manage Requests:** Review incoming requests from **Project Owners** and decide whether to **Accept** or **Decline** the request.
+5.  **Recommend Students:** Identify skilled users and formally suggest them to **Project Owners** for future roles.
 
 *Note: The mentor does not evaluate, approve, or rate projects.*
 
@@ -57,21 +53,17 @@ Students often struggle to find meaningful project collaboration opportunities t
 
 ### 🛠 Administrator
 
-* Monitor platform activity and system health
-* Manage users and handle reported accounts
-* Resolve disputes between users
-* Maintain and monitor audit logs for transparency
-* Enforce platform policies and guidelines
+* **Platform Governance:** Monitor system health, enforce platform policies, and manage user account restrictions (e.g., suspensions).
+* **Dispute Resolution:** Resolve conflicts and disputes by analyzing immutable **Audit Logs** and enforcing outcomes.
 
 ---
 
 ## Key Highlights
 
-* Student-focused collaboration and learning
-* Experience-driven project participation
-* Transparent contribution tracking via audit logs
-* Guidance-oriented mentorship model
-* Scalable and structured collaboration workflow
+* **Student-focused collaboration:** Bridges the gap between academic learning and practical industry experience.
+* **Transparent Tracking:** Utilizes immutable Audit Logs to create a verifiable Contribution History.
+* **Non-Evaluative Mentorship:** Provides a guidance-oriented model distinct from administrative management.
+* **Structured Workflows:** Enforces rigorous cycles for Project Setup, Task Execution, and XP/Leveling.
 
 ---
 
